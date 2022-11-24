@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+}
+
+.header{
+    width: 100%;
+    height: 62px;
+    background-color: #02918c;
+}
+
+.logo_image{
+    margin-left: 137px;
+    margin-top: 14px;
+}
+
+
+.body_about_me{
+    width: 100%;
+    height: 604px;
+}
+
+.first_container_about_me{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about_me_h1{
+    margin-top: 97px;
+    text-align: center;
+    color: #02918c;
+    font-size: 46px bold;
+    font-family: sans-serif;
+}
+
+.about_me_p1{
+    width: 900px;
+    height: 46px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:16px;
+    color:  #7e8287;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 43px;
+}
+
+.about_me_p2{
+    width: 845px;
+    height: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:16px;
+    color:  #7e8287;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.span_bold{
+    font-weight: bold;
+}
+
+.about_me_p3{
+    width: 845px;
+    height: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:16px;
+    color:  #7e8287;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.second_container_about_me{
+    width: 1070px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+.body_container1{
+    width: 201px;
+    height: 165px;
+    display: inline-block;
+    margin-left: 63px;
+}
+.body_container2{
+    width: 201px;
+    height: 165px;
+    display: inline-block;
+    margin-left: 63px;
+}
+.body_container3{
+    width: 201px;
+    height: 165px;
+    display: inline-block;
+    margin-left: 63px;
+}
+.body_container4{
+    width: 201px;
+    height: 165px;
+    display: inline-block;
+    margin-left: 63px;
+}
+
+.body_container_image{
+    display: block;
+    margin: 0 auto;
+}
+
+.body_container_mainP{
+    text-align: center;
+    font-size: 18px; 
+    color: #7e8287;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body_container_p{
+    text-align: center;
+    font-size: 14px normal; 
+    color: #7e8287; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    width: auto;
+    height: 79px;
+    background-color: #000;
+    padding-top: 10px;
+}
+
+.footer_text{
+    text-align: center;
+    color:#7e8287;
+    font-size: 12px normal;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 42px;
+}
